@@ -1,0 +1,236 @@
+[
+    {
+        "description": "",
+        "image": "",
+        "name": "Cutlery - No",
+        "price": 0
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "Cutlery - Yes",
+        "price": 0
+    },
+    {
+        "description": "Honey Sweet & Sour Pork, Gong Bao Chicken and Cashew Nut's , Stir-Fried French Beans With Minced Meat, Handmade Beancurd with Assorted Mushrooms and Broccoli, 4 X Plain Rice, 4 X Coke Zero",
+        "image": "",
+        "name": "Set Menu A for 4 Pax",
+        "price": 59
+    },
+    {
+        "description": "Honey Sweet & Sour Pork, Gong Bao Chicken and Cashew Nut's, Stir-Fried French Beans With Minced Meat, Chinese Spinach With Assorted Egg, Handmade Beancurd with Assorted Mushrooms and Broccoli, 6 X Plain Rice, 6 X Coke Zero",
+        "image": "",
+        "name": "Set Menu B for 6 Pax",
+        "price": 79
+    },
+    {
+        "description": "Honey Sweet & Sour Pork , Gong Bao Chicken and Cashew Nut's, Stir-Fried French Beans With Minced Meat, Chinese Spinach With Assorted Egg, Handmade Beancurd with Assorted Mushrooms and Broccoli, Sliced Pork With Creamy Salted Egg Sauce, 8 X Plain Rice, 8 X Coke Zero",
+        "image": "",
+        "name": "Set Menu C for 8 Pax",
+        "price": 99
+    },
+    {
+        "description": "Serves with rice, braised peanuts and seasonal vegetable",
+        "image": "",
+        "name": "1001. Gong Bao Chicken Set",
+        "price": 13.8
+    },
+    {
+        "description": "Serves with rice, braised peanuts and seasonal vegetable",
+        "image": "",
+        "name": "1002. Sesame Oil Chicken Set",
+        "price": 13.8
+    },
+    {
+        "description": "Served with rice, braised peanuts and seasonal vegetable",
+        "image": "",
+        "name": "1003. Salted Egg Sliced Pork Set",
+        "price": 13.8
+    },
+    {
+        "description": "Serves with rice, braised peanuts and seasonal vegetable",
+        "image": "",
+        "name": "1004 Honey Chicken Set",
+        "price": 13.8
+    },
+    {
+        "description": "Serves with rice, braised peanuts and seasonal vegetable",
+        "image": "",
+        "name": "1005. Honey Sweet & Sour Pork Set",
+        "price": 13.8
+    },
+    {
+        "description": "White rice as base with dried scallops, fish slices and cuttlefish, choice of add-on available (Dried scallops cannot be removed from the porridge)",
+        "image": "",
+        "name": "101. Premium Dried Scallop Porridge",
+        "price": 12.73
+    },
+    {
+        "description": "With dried scallop sliced fish, choice of add-on available. (Dried scallops cannot be removed from the porridge)",
+        "image": "",
+        "name": "103. Fish Roe Porridge",
+        "price": 14.87
+    },
+    {
+        "description": "Dried scallops with century egg and minced meat, choice of add-on available (Dried scallops cannot be removed from the porridge)",
+        "image": "",
+        "name": "111. Porridge with Minced Meat",
+        "price": 12.73
+    },
+    {
+        "description": "Dried scallops with century egg and minced meat, choice of add-on available (Dried scallops cannot be removed from the porridge)",
+        "image": "",
+        "name": "110. Porridge with Fish Maw and Razor Clam",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "501. Noodle in Jiang Nan style",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "506. Sesame Chicken Noodle",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "509. La-La White Bee Hoon",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "924. Fried Mee Sua with Shrimps and Scallop",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "600. Claypot Rice with Chicken in Gong Bao Sauce",
+        "price": 13.8
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "601. Claypot Chicken and Mushroom Rice",
+        "price": 13.8
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "608. Claypot Mushroom and Minced Meat Rice",
+        "price": 13.8
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "921. Shrimp Fried Rice with Scallop",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "931. Shrimps Fried Rice with XO Sauce",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "P2. Plain Rice",
+        "price": 1.61
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "201. Dried Chilli Frog's Meat",
+        "price": 20.22
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "203. Sesame Oil Chicken",
+        "price": 19.15
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "205. Gong Bao Chicken and Cashew Nuts",
+        "price": 19.15
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "908. Honey Sweet and Sour Pork",
+        "price": 20.22
+    },
+    {
+        "description": "With creamy salted egg sauce",
+        "image": "",
+        "name": "910. Sliced Pork",
+        "price": 20.22
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "710. Handmade Beancurd with 'Chai Po' in Hong Kong style Sauce",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "712. Handmade Beancurd with Assorted Mushrooms and Broccoli",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "912. Deep-fried Homemade Prawn Balls",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "803. Stir-fried Kailan with Silver Fish",
+        "price": 12.73
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "804. Chinese Spinach with Assorted Eggs",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "806. Stir-fried French Beans with Minced Meat",
+        "price": 13.8
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "810. Stir-fried Broccoli with Assorted Mushrooms",
+        "price": 15.94
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "G1. Coke Zero",
+        "price": 2
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "G2. Heaven Green Tea",
+        "price": 2
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "G4. Fanta Grape",
+        "price": 2
+    }
+]

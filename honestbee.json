@@ -1,0 +1,278 @@
+[
+    {
+        "description": "Premium Wagyu Beef.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116145.jpg",
+        "name": "Wagyu Burger Demi-Glace",
+        "price": 4.85
+    },
+    {
+        "description": "Premium Wagyu Beef.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116146.jpg",
+        "name": "Wagyu Burger Grilled Tomato & Chilli",
+        "price": 4.95
+    },
+    {
+        "description": "Chicken.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116147.jpg",
+        "name": "Teriyaki Chicken Burger",
+        "price": 3.55
+    },
+    {
+        "description": "Seafood.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116148.jpg",
+        "name": "Fish Burger",
+        "price": 3.45
+    },
+    {
+        "description": "Beef (spicy).",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116150.jpg",
+        "name": "Spicy MOS Burger",
+        "price": 3.65
+    },
+    {
+        "description": "Beef.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116151.jpg",
+        "name": "MOS Burger",
+        "price": 3.55
+    },
+    {
+        "description": "Beef.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116152.jpg",
+        "name": "Teriyaki Beef Burger",
+        "price": 3.55
+    },
+    {
+        "description": "Beef.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116153.jpg",
+        "name": "Yakiniku Rice Burger",
+        "price": 3.9
+    },
+    {
+        "description": "Seafood.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116154.jpg",
+        "name": "Kakiage Rice Burger",
+        "price": 3.9
+    },
+    {
+        "description": "Seafood.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116155.jpg",
+        "name": "Ebi Rice Burger",
+        "price": 3.9
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116156.jpg",
+        "name": "French Fries (L)",
+        "price": 2.7
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116157.jpg",
+        "name": "Green Salad",
+        "price": 2.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116158.jpg",
+        "name": "MOS Chicken",
+        "price": 2.9
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116160.jpg",
+        "name": "Butterfly Prawns",
+        "price": 3.5
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116161.jpg",
+        "name": "Chicken Nuggets",
+        "price": 3.5
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116162.jpg",
+        "name": "Mussels Nuggets",
+        "price": 3.7
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116163.jpg",
+        "name": "Corn Soup",
+        "price": 2.6
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116164.jpg",
+        "name": "Clam Chowder",
+        "price": 2.6
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116165.jpg",
+        "name": "Mushroom Soup",
+        "price": 2.5
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116166.jpg",
+        "name": "Iced Milk Tea",
+        "price": 2.75
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116167.jpg",
+        "name": "Iced Lemon Tea",
+        "price": 2.75
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116168.jpg",
+        "name": "Iced Peach Tea",
+        "price": 2.75
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116169.jpg",
+        "name": "Coca-Cola",
+        "price": 2.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116170.jpg",
+        "name": "Sprite",
+        "price": 2.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116171.jpg",
+        "name": "Fanta Grape",
+        "price": 2.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116172.jpg",
+        "name": "Coke Zero",
+        "price": 2.55
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116173.jpg",
+        "name": "Hot Coffee",
+        "price": 2.2
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116174.jpg",
+        "name": "Orange Juice",
+        "price": 2.3
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "Pink Guava Juice",
+        "price": 2.3
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116176.jpg",
+        "name": "Ayataka Green Tea (Non-Sugar)",
+        "price": 2.6
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116177.jpg",
+        "name": "Hot Matcha Latte",
+        "price": 3.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116178.jpg",
+        "name": "Iced Matcha Latte",
+        "price": 3.5
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116179.jpg",
+        "name": "Hot Cocoa",
+        "price": 3.3
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4116180.jpg",
+        "name": "Iced Cocoa",
+        "price": 3.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4132599.jpg",
+        "name": "Hamburger",
+        "price": 1.8
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_4574117.jpg",
+        "name": "Oolong Tea (Non-Sugar)",
+        "price": 2.6
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_5197407.jpg",
+        "name": "Chicken Burger",
+        "price": 3.45
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_5197408.jpg",
+        "name": "Hokkaido Croquette Burger",
+        "price": 2.65
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_5197409.jpg",
+        "name": "Cheeseburger",
+        "price": 2.1
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_5197410.jpg",
+        "name": "Croquette",
+        "price": 2.1
+    },
+    {
+        "description": "Consists of 2 large fries, 2 MOS Chicken & onion rings.",
+        "image": "https://assets.honestbee.com/products/images/640/10895_7518191.jpg",
+        "name": "MOS Variety Pack",
+        "price": 11.9
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_7585934.jpg",
+        "name": "Tsukune Rice Burger",
+        "price": 3.9
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "Mustard Sauce",
+        "price": 0.5
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "Barbecue Sauce",
+        "price": 0.5
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_7999257.jpg",
+        "name": "Fujiyama Burger",
+        "price": 4.4
+    },
+    {
+        "description": "",
+        "image": "https://assets.honestbee.com/products/images/640/10895_7999258.jpg",
+        "name": "Fujiyama Rice Burger",
+        "price": 4.9
+    }
+]
