@@ -59,7 +59,8 @@ class Honestbee:
         url = self.get_url(restaurant_name)
         html = requests.get(url=url).text
         soup = BeautifulSoup(html, 'html.parser')
-        return json.loads(soup.findAll("script")[0].contents[0].split("window.__i18n")[0][len("\n        window.__data="):-len(";\n        ")])
+        line = soup.findAll("script")[0].contents[0]
+        return json.loads(line[line.find("=")+1: line.find(";\n")])
 
     def get_menu_items(self, restaurant_name):
         """Return a list of menu items by the given restaurant"""
