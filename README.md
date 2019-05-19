@@ -6,6 +6,11 @@ A library for your Singapore food delivery needs
 * Deliveroo
 * HonestBee
 
+## Installation
+```
+$ pip3 install pySGDabao
+```
+
 ## Getting started
 ```python
 from pySGDabao import * 
