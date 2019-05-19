@@ -7,7 +7,7 @@ import requests
 import json
 
 def main():
-    postal_code = 760625
+    postal_code = 530511
     test_foodpanda = Foodpanda(postal_code)
     test_deliveroo = Deliveroo(postal_code)
     test_honestbee = Honestbee(postal_code)
